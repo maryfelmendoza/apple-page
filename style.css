@@ -20,10 +20,6 @@
     padding: 0px 84px 0px 84px;
 }
 
-.apple-icon i {
-    
-}
-
 .nav-bar .store {
     display: flex;
     justify-content: center;
@@ -110,14 +106,14 @@ main {
 /*up*/
 
 body {
-    background-image: url("images/main\ apple.jpg");
+    background-image: url("images/main-apple.jpg");
     background-repeat: no-repeat;
     background-position: 0px -775px;
     margin: 0 auto;
 }
 
 .up .texto-b {
-    background-image: url("images/texto\ bottom.png");
+    background-image: url("images/texto-bottom.png");
     background-position-x: 200px;
     background-repeat: no-repeat;
     background-size: auto;
