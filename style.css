@@ -6,84 +6,84 @@
     border: none;
     border-radius: 6px;
     background-color: grey;
-    background-image: linear-gradient( black, white);
+    background-image: linear-gradient(black, white);
     height: 38px;
     margin: 83px 30px 0px 30px;
     color: white;
-}
-
-.apple-icon{
+  }
+  
+  .apple-icon {
     display: flex;
     justify-content: center;
     align-items: center;
     border-right: 1px solid grey;
     padding: 0px 84px 0px 84px;
-}
-
-.nav-bar .store {
+  }
+  
+  .nav-bar .store {
     display: flex;
     justify-content: center;
     align-items: center;
     border-right: 1px solid grey;
     padding: 0px 44px 0px 44px;
-}
-
-.nav-bar .mac {
+  }
+  
+  .nav-bar .mac {
     display: flex;
     justify-content: center;
     align-items: center;
     border-right: 1px solid grey;
     padding: 0px 44px 0px 44px;
-}
-
-.nav-bar .ipod {
+  }
+  
+  .nav-bar .ipod {
     display: flex;
     justify-content: center;
     align-items: center;
     border-right: 1px solid grey;
     padding: 0px 44px 0px 44px;
-}
-
-.nav-bar .iphone {
+  }
+  
+  .nav-bar .iphone {
     display: flex;
     justify-content: center;
     align-items: center;
     border-right: 1px solid grey;
     padding: 0px 44px 0px 44px;
-}
-
-.nav-bar .ipad {
+  }
+  
+  .nav-bar .ipad {
     display: flex;
     justify-content: center;
     align-items: center;
     border-right: 1px solid grey;
     padding: 0px 44px 0px 44px;
-}
-
-.nav-bar .itunes {
+  }
+  
+  .nav-bar .itunes {
     display: flex;
     justify-content: center;
     align-items: center;
     border-right: 1px solid grey;
     padding: 0px 44px 0px 44px;
-}
-
-.nav-bar .support {
+  }
+  
+  .nav-bar .support {
     display: flex;
     justify-content: center;
     align-items: center;
     border-right: 1px solid grey;
     padding: 0px 44px 0px 44px;
-}
-
-.search {
+  }
+  
+  .search {
     display: flex;
     align-items: center;
     padding: 0px 44px 0px 44px;
     width: 128px;
-}
-
-.search i {
+  }
+  
+  .search i {
     border: 1px solid grey;
     border-radius: 24px;
     width: 162px;
@@ -91,102 +91,102 @@
     padding-left: 10px;
     padding-top: 5px;
     margin-top: 4px;
-    margin-bottom: 6px
-}
-
-/*main*/
-
-main {
+    margin-bottom: 6px;
+  }
+  
+  /*main*/
+  
+  main {
     color: white;
     text-align: center;
     padding-top: 40px;
     height: 545px;
-}
-
-/*up*/
-
-body {
+  }
+  
+  /*up*/
+  
+  body {
     background-image: url("images/main-apple.jpg");
     background-repeat: no-repeat;
     background-position: 0px -775px;
     margin: 0 auto;
-}
-
-.up .texto-b {
+  }
+  
+  .up .texto-b {
     background-image: url("images/texto-bottom.png");
     background-position-x: 200px;
     background-repeat: no-repeat;
     background-size: auto;
     height: 32px;
-}
-
-/*down*/
-
-.down {
+  }
+  
+  /*down*/
+  
+  .down {
     display: flex;
     justify-content: center;
     padding-top: 96px;
-}
-
-.down img {
+  }
+  
+  .down img {
     height: 260px;
     width: 337px;
-}
-
-/*footer*/
-
-footer {
+  }
+  
+  /*footer*/
+  
+  footer {
     padding: 55px 30px 15px 30px;
-}
-
-/*footer - bottom up*/
-
-footer .bottom-up {
+  }
+  
+  /*footer - bottom up*/
+  
+  footer .bottom-up {
     display: flex;
     justify-content: space-between;
     font-size: 11px;
-}
-
-.bottom-up-left {
+  }
+  
+  .bottom-up-left {
     color: gray;
-}
-
-.bottom-up-left span {
+  }
+  
+  .bottom-up-left span {
     color: blue;
-}
-
-.bottom-up-right {
+  }
+  
+  .bottom-up-right {
     display: flex;
     justify-content: space-between;
     color: blue;
-}
-
-.bottom-up-right p {
+  }
+  
+  .bottom-up-right p {
     border-right: 2px solid lightgray;
     padding-right: 6px;
     padding-left: 6px;
-}
-
-.bottom-up-right img {
+  }
+  
+  .bottom-up-right img {
     width: 18px;
     height: 18px;
     padding-left: 10px;
     padding-top: 7px;
-}
-
-/*footer - bottom down*/
-
-.bottom-down {
+  }
+  
+  /*footer - bottom down*/
+  
+  .bottom-down {
     font-size: 11px;
     color: gray;
-}
-
-.bottom-down span {
+  }
+  
+  .bottom-down span {
     color: blue;
     padding-left: 5px;
     padding-right: 5px;
-}
-
-.privacy {
+  }
+  
+  .privacy {
     border-left: 2px solid lightgray;
-}
+  }
