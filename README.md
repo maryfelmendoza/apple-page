@@ -1,11 +1,13 @@
-HTML-Forms
+HTML and CSS
+PROJECT: BUILDING WITH BACKGROUNDS AND GRADIENTS
 
-Microverse Second HTML and CSS Main Curriculum Project "HTML Forms". This project consists of building an HTML document that matches the appearance of Mint's signup page.
+Microverse Fourth HTML and CSS Main Curriculum Project "Building With Backgrounds And Gradients".
+In this project I will clone the website of one of the most design-forward companies in the world. It’s not a very complex site but it will use background photos well and the navbar at the top contains a gradient.
 
-Mint's sign up page assigment: https://tinyurl.com/yxjfmkgt.
+Apple page assigment: http://archive.fo/UW4oR
 
-Live Preview:https://maryfelmendoza.github.io/intuitproject/.
+Live Preview:
 
-INTUIT
+APPLE PAGE
 
-Michael Zhu Contact info: michaelzhu63@hotmail.com Maryfel Mendoza Contact info: maryfelmendoza@hotmail.com
+Maryfel Mendoza Contact info: maryfelmendoza@hotmail.com
