@@ -1,6 +1,19 @@
+
+/*nav*/
+
+/*main*/
+
+/*up*/
+
+/*down*/
+
+/*footer*/
+
 footer {
     padding: 30px;
 }
+
+/*footer - bottom up*/
 
 footer .bottom-up {
     display: flex;
@@ -34,6 +47,8 @@ footer .bottom-up {
     padding-left: 10px;
     padding-top: 7px;
 }
+
+/*footer - bottom down*/
 
 .bottom-down {
     font-size: 11px;
