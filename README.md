@@ -6,7 +6,7 @@ In this project I will clone the website of one of the most design-forward compa
 
 Apple page assigment: http://archive.fo/UW4oR
 
-Live Preview:
+Live Preview: (pending)
 
 APPLE PAGE
 
