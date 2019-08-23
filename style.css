@@ -1,10 +1,10 @@
 .nav-bar {
-    background-color: grey;
+    background-color:grey;
     background-image: linear-gradient(black, white);
     display: flex;
     border: none;
     border-radius: 6px;
-    color: white;
+    color:#FFFFFF;
     height: 38px;
     justify-content: space-between;
     margin: 83px 30px 0px 30px;
