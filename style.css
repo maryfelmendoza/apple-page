@@ -1,25 +1,25 @@
 .nav-bar {
   background-color: grey;
   background-image: linear-gradient(black, white);
-    display: flex;
-    border: none;
-    border-radius: 6px;
+  display: flex;
+  border: none;
+  border-radius: 6px;
   color: #fff;
-    height: 38px;
+  height: 38px;
   justify-content: space-between;
-    margin: 83px 30px 0 30px;
+  margin: 83px 30px 0 30px;
 }
 
 .apple-icon {
-    align-items: center;
-    border-right: 1px solid grey;
+  align-items: center;
+  border-right: 1px solid grey;
   display: flex;
   justify-content: center;
-    padding: 0 84px 0 84px;
+  padding: 0 84px 0 84px;
 }
 
 .nav-bar .store {
-    display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   border-right: 1px solid grey;
