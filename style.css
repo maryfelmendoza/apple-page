@@ -151,36 +151,36 @@ article {
   padding-top: 96px;
 }
 
-article .image-1{
+article .image-1 {
   background-image: url("images/1.jpg");
   background-repeat: no-repeat;
   background-size: auto;
   height: 260px;
-  width: 337px;  
+  width: 337px;
 }
 
-article .image-2{
+article .image-2 {
   background-image: url("images/2.jpg");
   background-repeat: no-repeat;
   background-size: auto;
   height: 260px;
-  width: 337px;  
+  width: 337px;
 }
 
-article .image-3{
+article .image-3 {
   background-image: url("images/3.jpg");
   background-repeat: no-repeat;
   background-size: auto;
   height: 260px;
-  width: 337px;  
+  width: 337px;
 }
 
-article .image-4{
+article .image-4 {
   background-image: url("images/4.jpg");
   background-repeat: no-repeat;
   background-size: auto;
   height: 260px;
-  width: 337px;  
+  width: 337px;
 }
 
 footer {
