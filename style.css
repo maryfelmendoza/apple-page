@@ -120,6 +120,23 @@ body {
   margin: 0 auto;
 }
 
+.up .texto-u {
+  background-image: url("images/texto-up.png");
+  background-position-x: 200px;
+  background-position-y: -10px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 80px;
+}
+
+.up .texto-m {
+  background-image: url("images/texto-middle.png");
+  background-position-x: 200px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 108px;
+}
+
 .up .texto-b {
   background-image: url("images/texto-bottom.png");
   background-position-x: 200px;
@@ -134,13 +151,40 @@ article {
   padding-top: 96px;
 }
 
-article img {
+article .image-1{
+  background-image: url("images/1.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
   height: 260px;
-  width: 337px;
+  width: 337px;  
+}
+
+article .image-2{
+  background-image: url("images/2.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 260px;
+  width: 337px;  
+}
+
+article .image-3{
+  background-image: url("images/3.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 260px;
+  width: 337px;  
+}
+
+article .image-4{
+  background-image: url("images/4.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 260px;
+  width: 337px;  
 }
 
 footer {
-  padding: 55px 30px 15px 30px;
+  padding: 0 30px 15px 30px;
 }
 
 footer .bottom-up {
