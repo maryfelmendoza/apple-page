@@ -17,7 +17,7 @@
   justify-content: center;
     padding: 0px 84px 0px 84px;
 }
-  
+
 .nav-bar .store {
     display: flex;
   justify-content: center;
@@ -33,7 +33,7 @@
   border-right: 1px solid grey;
 padding: 0px 44px 0px 44px;        
 }
-   
+
 .nav-bar .ipod {
   display: flex;
   justify-content: center;
@@ -41,7 +41,7 @@ padding: 0px 44px 0px 44px;
   border-right: 1px solid grey;
   padding: 0px 44px 0px 44px;
 }
-  
+
 .nav-bar .iphone {
   display: flex;
   justify-content: center;
@@ -49,7 +49,7 @@ padding: 0px 44px 0px 44px;
   border-right: 1px solid grey;
   padding: 0px 44px 0px 44px;
 }
-  
+
 .nav-bar .ipad {
   display: flex;
   justify-content: center;
@@ -57,7 +57,7 @@ padding: 0px 44px 0px 44px;
   border-right: 1px solid grey;
   padding: 0px 44px 0px 44px;
 }
-  
+
 .nav-bar .itunes {
   display: flex;
   justify-content: center;
@@ -65,7 +65,7 @@ padding: 0px 44px 0px 44px;
   border-right: 1px solid grey;
   padding: 0px 44px 0px 44px;
 }
-  
+
 .nav-bar .support {
   display: flex;
   justify-content: center;
@@ -73,14 +73,14 @@ padding: 0px 44px 0px 44px;
   border-right: 1px solid grey;
   padding: 0px 44px 0px 44px;
 }
-  
+
 .search {
   display: flex;
   align-items: center;
   padding: 0px 44px 0px 44px;
   width: 128px;
 }
-  
+
 .search i {
   border: 1px solid grey;
   border-radius: 24px;
@@ -91,21 +91,21 @@ padding: 0px 44px 0px 44px;
   margin-top: 4px;
   margin-bottom: 6px;
 }
-  
+
 main {
   color: white;
   text-align: center;
   padding-top: 40px;
   height: 545px;
 }
-  
+
 body {
   background-image: url("images/main-apple.jpg");
   background-repeat: no-repeat;
   background-position: 0px -775px;
   margin: 0 auto;
 }
-  
+
 .up .texto-b {
   background-image: url("images/texto-bottom.png");
   background-position-x: 200px;
@@ -113,67 +113,67 @@ body {
   background-size: auto;
   height: 32px;
 }
-  
+
 .down {
   display: flex;
   justify-content: center;
   padding-top: 96px;
 }
-  
+
 .down img {
   height: 260px;
   width: 337px;
 }
-  
+
 footer {
   padding: 55px 30px 15px 30px;
 }
-  
+
 footer .bottom-up {
   display: flex;
   justify-content: space-between;
   font-size: 11px;
 }
-  
+
 .bottom-up-left {
   color: gray;
 }
-  
+
 .bottom-up-left span {
   color: blue;
 }
-  
+
 .bottom-up-right {
   display: flex;
   justify-content: space-between;
   color: blue;
 }
-  
+
 .bottom-up-right p {
   border-right: 2px solid lightgray;
   padding-right: 6px;
   padding-left: 6px;
 }
-  
+
 .bottom-up-right img {
   width: 18px;
   height: 18px;
   padding-left: 10px;
   padding-top: 7px;
 }
-  
+
 .bottom-down {
   font-size: 11px;
   color: gray;
 }
-  
+
 .bottom-down span {
   color: blue;
   padding-left: 5px;
   padding-right: 5px;
 }
-  
+
 .privacy {
   border-left: 2px solid lightgray;
 }
-  
+
