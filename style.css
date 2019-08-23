@@ -1,4 +1,4 @@
-.nav-bar {
+nav {
   background-color: grey;
   background-image: linear-gradient(black, white);
   display: flex;
@@ -18,7 +18,7 @@
   padding: 0 84px 0 84px;
 }
 
-.nav-bar .store {
+.store {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -26,7 +26,7 @@
   padding: 0 44px 0 44px;
 }
 
-.nav-bar .mac {
+.mac {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -34,7 +34,7 @@
   padding: 0 44px 0 44px;
 }
 
-.nav-bar .ipod {
+.ipod {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -42,7 +42,7 @@
   padding: 0 44px 0 44px;
 }
 
-.nav-bar .iphone {
+.iphone {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -50,7 +50,7 @@
   padding: 0 44px 0 44px;
 }
 
-.nav-bar .ipad {
+.ipad {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -58,7 +58,7 @@
   padding: 0 44px 0 44px;
 }
 
-.nav-bar .itunes {
+.itunes {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -66,7 +66,7 @@
   padding: 0 44px 0 44px;
 }
 
-.nav-bar .support {
+.support {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -74,22 +74,36 @@
   padding: 0 44px 0 44px;
 }
 
-.search {
+.search-bar {
   display: flex;
   align-items: center;
+  justify-content: center;
   padding: 0 44px 0 44px;
   width: 128px;
 }
 
-.search i {
+.search-inside {
   border: 1px solid grey;
   border-radius: 24px;
   width: 162px;
   height: 24px;
-  padding-left: 10px;
-  padding-top: 5px;
-  margin-top: 4px;
+  padding-left: 8px;
+  margin-top: 7px;
   margin-bottom: 6px;
+  background-color: grey;
+  background-image: linear-gradient(black, white);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+input {
+  border: none;
+  border-radius: 24px;
+  width: 142px;
+  height: 24px;
+  background-color: grey;
+  background-image: linear-gradient(black, white);
 }
 
 main {
@@ -114,13 +128,13 @@ body {
   height: 32px;
 }
 
-.down {
+article {
   display: flex;
   justify-content: center;
   padding-top: 96px;
 }
 
-.down img {
+article img {
   height: 260px;
   width: 337px;
 }
