@@ -11,19 +11,19 @@
 }
 
 .apple-icon {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        border-right: 1px solid grey;
-        padding: 0px 84px 0px 84px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-right: 1px solid grey;
+padding: 0px 84px 0px 84px;
 }
   
 .nav-bar .store {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        border-right: 1px solid grey;
-        padding: 0px 44px 0px 44px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-right: 1px solid grey;
+padding: 0px 44px 0px 44px;
 }
   
 .nav-bar .mac {
