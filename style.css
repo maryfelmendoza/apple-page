@@ -20,26 +20,26 @@
   
 .nav-bar .store {
     display: flex;
-justify-content: center;
-align-items: center;
-border-right: 1px solid grey;
-padding: 0px 44px 0px 44px;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid grey;
+  padding: 0px 44px 0px 44px;
 }
 
 .nav-bar .mac {
-display: flex;
-justify-content: center;
-align-items: center;
-border-right: 1px solid grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid grey;
 padding: 0px 44px 0px 44px;        
 }
    
 .nav-bar .ipod {
-display: flex;
-justify-content: center;
-align-items: center;
-border-right: 1px solid grey;
-padding: 0px 44px 0px 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid grey;
+  padding: 0px 44px 0px 44px;
 }
   
 .nav-bar .iphone {
