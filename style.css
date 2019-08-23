@@ -43,42 +43,42 @@ padding: 0px 44px 0px 44px;
 }
   
 .nav-bar .iphone {
-display: flex;
-justify-content: center;
-align-items: center;
-border-right: 1px solid grey;
-padding: 0px 44px 0px 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid grey;
+  padding: 0px 44px 0px 44px;
 }
   
 .nav-bar .ipad {
-display: flex;
-justify-content: center;
-align-items: center;
-border-right: 1px solid grey;
-padding: 0px 44px 0px 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid grey;
+  padding: 0px 44px 0px 44px;
 }
   
 .nav-bar .itunes {
-display: flex;
-justify-content: center;
-align-items: center;
-border-right: 1px solid grey;
-padding: 0px 44px 0px 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid grey;
+  padding: 0px 44px 0px 44px;
 }
   
 .nav-bar .support {
-display: flex;
-justify-content: center;
-align-items: center;
-border-right: 1px solid grey;
-padding: 0px 44px 0px 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 1px solid grey;
+  padding: 0px 44px 0px 44px;
 }
   
 .search {
-display: flex;
-align-items: center;
-padding: 0px 44px 0px 44px;
-width: 128px;
+  display: flex;
+  align-items: center;
+  padding: 0px 44px 0px 44px;
+  width: 128px;
 }
   
 .search i {
