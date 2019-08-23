@@ -145,13 +145,13 @@ body {
   height: 32px;
 }
 
-article {
+.down {
   display: flex;
   justify-content: center;
   padding-top: 96px;
 }
 
-article .image-1 {
+.down .image-1 {
   background-image: url("images/1.jpg");
   background-repeat: no-repeat;
   background-size: auto;
@@ -159,7 +159,7 @@ article .image-1 {
   width: 337px;
 }
 
-article .image-2 {
+.down .image-2 {
   background-image: url("images/2.jpg");
   background-repeat: no-repeat;
   background-size: auto;
@@ -167,7 +167,7 @@ article .image-2 {
   width: 337px;
 }
 
-article .image-3 {
+.down .image-3 {
   background-image: url("images/3.jpg");
   background-repeat: no-repeat;
   background-size: auto;
@@ -175,7 +175,7 @@ article .image-3 {
   width: 337px;
 }
 
-article .image-4 {
+.down .image-4 {
   background-image: url("images/4.jpg");
   background-repeat: no-repeat;
   background-size: auto;
