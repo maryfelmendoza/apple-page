@@ -7,7 +7,7 @@
   color: #fff;
     height: 38px;
   justify-content: space-between;
-    margin: 83px 30px 0px 30px;
+    margin: 83px 30px 0 30px;
 }
 
 .apple-icon {
@@ -15,7 +15,7 @@
     border-right: 1px solid grey;
   display: flex;
   justify-content: center;
-    padding: 0px 84px 0px 84px;
+    padding: 0 84px 0 84px;
 }
 
 .nav-bar .store {
@@ -23,7 +23,7 @@
   justify-content: center;
   align-items: center;
   border-right: 1px solid grey;
-  padding: 0px 44px 0px 44px;
+  padding: 0 44px 0 44px;
 }
 
 .nav-bar .mac {
@@ -39,7 +39,7 @@
   justify-content: center;
   align-items: center;
   border-right: 1px solid grey;
-  padding: 0px 44px 0px 44px;
+  padding: 0 44px 0 44px;
 }
 
 .nav-bar .iphone {
@@ -47,7 +47,7 @@
   justify-content: center;
   align-items: center;
   border-right: 1px solid grey;
-  padding: 0px 44px 0px 44px;
+  padding: 0 44px 0 44px;
 }
 
 .nav-bar .ipad {
@@ -55,7 +55,7 @@
   justify-content: center;
   align-items: center;
   border-right: 1px solid grey;
-  padding: 0px 44px 0px 44px;
+  padding: 0 44px 0 44px;
 }
 
 .nav-bar .itunes {
@@ -63,7 +63,7 @@
   justify-content: center;
   align-items: center;
   border-right: 1px solid grey;
-  padding: 0px 44px 0px 44px;
+  padding: 0 44px 0 44px;
 }
 
 .nav-bar .support {
@@ -71,13 +71,13 @@
   justify-content: center;
   align-items: center;
   border-right: 1px solid grey;
-  padding: 0px 44px 0px 44px;
+  padding: 0 44px 0 44px;
 }
 
 .search {
   display: flex;
   align-items: center;
-  padding: 0px 44px 0px 44px;
+  padding: 0 44px 0 44px;
   width: 128px;
 }
 
@@ -102,7 +102,7 @@ main {
 body {
   background-image: url("images/main-apple.jpg");
   background-repeat: no-repeat;
-  background-position: 0px -775px;
+  background-position: 0 -775px;
   margin: 0 auto;
 }
 
