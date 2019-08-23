@@ -4,84 +4,84 @@
     border: none;
     border-radius: 6px;
     background-color: grey;
-    background-image: linear-gradientblack(black, white);
+    background-image: linear-gradient(black, white);
     height: 38px;
     margin: 83px 30px 0px 30px;
     color: white;
-    }
+}
 
-    .apple-icon {
+.apple-icon {
         display: flex;
         justify-content: center;
         align-items: center;
         border-right: 1px solid grey;
         padding: 0px 84px 0px 84px;
-    }
+}
   
-    .nav-bar .store {
+.nav-bar .store {
         display: flex;
         justify-content: center;
         align-items: center;
         border-right: 1px solid grey;
         padding: 0px 44px 0px 44px;
-    }
+}
   
-    .nav-bar .mac {
+.nav-bar .mac {
         display: flex;
         justify-content: center;
         align-items: center;
         border-right: 1px solid grey;
         padding: 0px 44px 0px 44px;
-    }
-  
-    .nav-bar .ipod {
+}
+   
+.nav-bar .ipod {
         display: flex;
         justify-content: center;
         align-items: center;
         border-right: 1px solid grey;
         padding: 0px 44px 0px 44px;
-    }
+}
   
-    .nav-bar .iphone {
+.nav-bar .iphone {
         display: flex;
         justify-content: center;
         align-items: center;
         border-right: 1px solid grey;
         padding: 0px 44px 0px 44px;
-    }
+}
   
-    .nav-bar .ipad {
+.nav-bar .ipad {
         display: flex;
         justify-content: center;
         align-items: center;
         border-right: 1px solid grey;
         padding: 0px 44px 0px 44px;
-    }
+}
   
-    .nav-bar .itunes {
+.nav-bar .itunes {
         display: flex;
         justify-content: center;
         align-items: center;
         border-right: 1px solid grey;
         padding: 0px 44px 0px 44px;
-    }
+}
   
-    .nav-bar .support {
+.nav-bar .support {
         display: flex;
         justify-content: center;
         align-items: center;
         border-right: 1px solid grey;
         padding: 0px 44px 0px 44px;
-    }
+}
   
-    .search {
+.search {
         display: flex;
         align-items: center;
         padding: 0px 44px 0px 44px;
         width: 128px;
-        }
+}
   
-        .search i {
+.search i {
         border: 1px solid grey;
         border-radius: 24px;
         width: 162px;
